@@ -22,12 +22,9 @@ Currently, I’m focused on backend development in Java, applying solid principl
 - **[HMCTS Developer Challenge](https://github.com/Samuel-Boomdijk/hmcts-developer-challenge)**  
   Current project for my HMCTS application, implemented in **Java**. Demonstrates backend development, testing, and documentation skills.  
 
-- **Unity3D Game Project (University Coursework)**  
-  Built independently using C#. Implemented gameplay mechanics, UI systems, and physics. Demonstrated problem-solving, time management, and coding discipline.  
-
-- **Reporting Automation Tool (Placement at TWBC)**  
-  Developed an internal reporting automation system using **SQL** and **Power BI**, reducing manual effort by 60%. Delivered full lifecycle: requirements, build, testing, deployment, and documentation.  
-
+- **[Unity3D Game Project (University Coursework)](https://github.com/Samuel-Boomdijk/Unity3D-Game-Project)**  
+  Built independently using C#. Implemented gameplay mechanics, UI systems, and physics. Demonstrated problem-solving, time management, and coding discipline.
+  
 ---
 
 ## 🌱 What I’m Working On

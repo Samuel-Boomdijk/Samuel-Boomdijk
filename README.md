@@ -42,6 +42,6 @@ Currently, I’m focused on backend development in Java, applying solid principl
 
 - Email: [samuelboomdijk@gmail.com](mailto:samuelboomdijk@gmail.com)  
 - LinkedIn: [linkedin.com/in/samuelboomdijk](https://linkedin.com/in/samuelboomdijk)  
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/Samuel-Boomdijk)  
+- GitHub: [github.com/YOUR_USERNAME]()  
 
 ---
